@@ -39,7 +39,7 @@ class AuthClass {
                 SizedBox(width: 20),
                 Expanded(
                     child: Text(
-                  "ようこそ、${userCredential.user.displayName}様！",
+                  "ようこそ！",
                   style: TextStyle(
                       fontFamily: "Kyo",
                       color: Colors.indigo[800],

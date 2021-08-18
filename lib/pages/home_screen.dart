@@ -12,6 +12,7 @@ import 'package:hq/services/auth_class.dart';
 import 'package:hq/pages/login.dart';
 import 'package:hq/pages/maintab.dart';
 import 'package:hq/services/um.dart';
+import 'package:hq/speech_text/speech_text.dart';
 import 'package:hq/widgets/category_box.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -234,11 +235,8 @@ class _HomeScreenState extends State<HomeScreen> {
             IconButton(
                 icon: Icon(Icons.notification_add),
                 onPressed: () {
-                  // notify();
-                  // AwesomeNotifications().actionStream.listen((event) {
-                  //   Navigator.push(context,
-                  //       MaterialPageRoute(builder: (context) => Upload()));
-                  // });
+                  Navigator.push(context,
+                      MaterialPageRoute(builder: (context) => Speech()));
                 }),
           ],
         ),

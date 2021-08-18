@@ -1,25 +1,27 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:1:1-42:12
-INJECTED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:1:1-42:12
-INJECTED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:1:1-42:12
-INJECTED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:1:1-42:12
-MERGED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:1:1-42:12
-MERGED from [:firebase_database] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
-MERGED from [:cloud_firestore] C:\Users\joho10\Desktop\flutter\home\home2\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
-MERGED from [:firebase_auth] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
-MERGED from [:firebase_storage] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
-MERGED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-46:12
-MERGED from [:firebase_core] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
-MERGED from [:image_picker] C:\Users\joho10\Desktop\flutter\home\home2\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
-MERGED from [:file_picker] C:\Users\joho10\Desktop\flutter\home\home2\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
-MERGED from [:flutter_plugin_android_lifecycle] C:\Users\joho10\Desktop\flutter\home\home2\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-62:12
-MERGED from [:sqflite] C:\Users\joho10\Desktop\flutter\home\home2\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:path_provider] C:\Users\joho10\Desktop\flutter\home\home2\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:flutter_secure_storage] C:\Users\joho10\Desktop\flutter\home\home2\build\flutter_secure_storage\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
-MERGED from [:fluttertoast] C:\Users\joho10\Desktop\flutter\home\home2\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:google_sign_in] C:\Users\joho10\Desktop\flutter\home\home2\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:1:1-47:12
+MERGED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:1:1-47:12
+MERGED from [:firebase_database] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:cloud_firestore] C:\Users\joho10\Desktop\flutter\mac_home\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_auth] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_storage] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-46:12
+MERGED from [:firebase_core] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:speech_to_text] C:\Users\joho10\Desktop\flutter\mac_home\build\speech_to_text\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] C:\Users\joho10\Desktop\flutter\mac_home\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:file_picker] C:\Users\joho10\Desktop\flutter\mac_home\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\joho10\Desktop\flutter\mac_home\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-62:12
+MERGED from [:sqflite] C:\Users\joho10\Desktop\flutter\mac_home\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] C:\Users\joho10\Desktop\flutter\mac_home\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_secure_storage] C:\Users\joho10\Desktop\flutter\mac_home\build\flutter_secure_storage\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:fluttertoast] C:\Users\joho10\Desktop\flutter\mac_home\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] C:\Users\joho10\Desktop\flutter\mac_home\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:google_sign_in] C:\Users\joho10\Desktop\flutter\mac_home\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\a20be4a04e20a7650c7478728658bc1e\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\1c075310296ee9585f35188ad9e1b8a0\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:17:1-58:12
 MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\2143f63b0fbb6459807ac91f4bf988f5\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:15:1-34:12
@@ -85,41 +87,71 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\joho10\.gradle
 MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\9fbe687fafbecc1727e69653ffa44b44\jetified-grpc-android-1.28.0\AndroidManifest.xml:2:1-13:12
 MERGED from [com.github.arturogutierrez:badges:1.0.5] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\87ad32479de08502d35b116efa0d212f\jetified-badges-1.0.5\AndroidManifest.xml:2:1-20:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\607f946bfd99fc22cd7cbe35efa222a6\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
-INJECTED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-INJECTED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-INJECTED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 	package
-		ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:2:5-29
-		INJECTED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\debug\AndroidManifest.xml
+		ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:2:5-29
+		INJECTED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\debug\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:1:1-42:12
-		INJECTED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:1:1-47:12
+		INJECTED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\debug\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:1:1-42:12
-		INJECTED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:1:1-47:12
+		INJECTED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:3:9-70
+MERGED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:3:9-70
+MERGED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:3:9-70
+MERGED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in] C:\Users\joho10\Desktop\flutter\mac_home\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in] C:\Users\joho10\Desktop\flutter\mac_home\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\12200954332df4e7949ae523e1cf886f\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\12200954332df4e7949ae523e1cf886f\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\39226147107c07d612c0b5c242740fda\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\39226147107c07d612c0b5c242740fda\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:23.0.3] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\ec1ec19720eb10862d5cbe52066417fa\jetified-firebase-firestore-23.0.3\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:23.0.3] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\ec1ec19720eb10862d5cbe52066417fa\jetified-firebase-firestore-23.0.3\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\1b1da317e75d1e5f9a3fdb04d44a433f\jetified-firebase-storage-20.0.0\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\1b1da317e75d1e5f9a3fdb04d44a433f\jetified-firebase-storage-20.0.0\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.1] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\70da28a8cae640a5453179e9a4e80e74\jetified-firebase-database-20.0.1\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.1] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\70da28a8cae640a5453179e9a4e80e74\jetified-firebase-database-20.0.1\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\2733ee416a9a3a7703f654641d3c99ee\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\2733ee416a9a3a7703f654641d3c99ee\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\8826ca986e6193ba3621f65cae7b406e\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\8826ca986e6193ba3621f65cae7b406e\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:3:26-68
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:4:5-70
+	android:name
+		ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:4:22-68
 application
-ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:3:4-41:19
-MERGED from [:firebase_database] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_database] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
-MERGED from [:cloud_firestore] C:\Users\joho10\Desktop\flutter\home\home2\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
-MERGED from [:cloud_firestore] C:\Users\joho10\Desktop\flutter\home\home2\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_auth] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_auth] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_storage] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_storage] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-44:19
-MERGED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-44:19
-MERGED from [:firebase_core] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_core] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
-MERGED from [:image_picker] C:\Users\joho10\Desktop\flutter\home\home2\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
-MERGED from [:image_picker] C:\Users\joho10\Desktop\flutter\home\home2\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
-MERGED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-60:19
-MERGED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-60:19
+ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:5:4-46:19
+MERGED from [:firebase_database] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_database] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] C:\Users\joho10\Desktop\flutter\mac_home\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] C:\Users\joho10\Desktop\flutter\mac_home\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-44:19
+MERGED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-44:19
+MERGED from [:firebase_core] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:image_picker] C:\Users\joho10\Desktop\flutter\mac_home\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker] C:\Users\joho10\Desktop\flutter\mac_home\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-60:19
+MERGED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-60:19
+MERGED from [:url_launcher] C:\Users\joho10\Desktop\flutter\mac_home\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] C:\Users\joho10\Desktop\flutter\mac_home\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
 MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\1c075310296ee9585f35188ad9e1b8a0\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:27:5-56:19
 MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\1c075310296ee9585f35188ad9e1b8a0\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:27:5-56:19
 MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\2143f63b0fbb6459807ac91f4bf988f5\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:24:5-32:19
@@ -169,87 +201,97 @@ MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.1] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\c6cbb546329fcf86fc50a69717ed35fe\core-1.3.1\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:5:9-27
+		ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:7:9-27
 	android:icon
-		ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:6:9-43
+		ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:8:9-43
 	android:usesCleartextTraffic
-		ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:4:4-39
-activity#com.example.hq.MainActivity
-ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:7:9-35:20
-	android:launchMode
-		ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:9:13-43
-	android:hardwareAccelerated
-		ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:12:13-47
-	android:windowSoftInputMode
-		ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:13:13-55
-	android:configChanges
-		ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:11:13-163
-	android:theme
-		ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:10:13-47
-	android:name
-		ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:8:13-41
-meta-data#io.flutter.embedding.android.NormalTheme
-ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:18:13-21:17
-	android:resource
-		ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:20:15-52
-	android:name
-		ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:19:15-70
-meta-data#io.flutter.embedding.android.SplashScreenDrawable
-ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:27:13-30:17
-	android:resource
-		ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:29:15-61
-	android:name
-		ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:28:15-79
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:31:13-34:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:32:17-68
-	android:name
-		ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:32:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:33:17-76
-	android:name
-		ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:33:27-74
-meta-data#flutterEmbedding
-ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:38:9-40:33
+		ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:6:4-39
+meta-data#com.google.firebase.ml.vision.DEPENDENCIES
+ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:9:3-11:27
 	android:value
-		ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:40:13-30
+		ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:11:5-24
 	android:name
-		ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml:39:13-44
+		ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:10:5-62
+activity#com.example.hq.MainActivity
+ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:12:9-40:20
+	android:launchMode
+		ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:14:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:17:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:18:13-55
+	android:configChanges
+		ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:16:13-163
+	android:theme
+		ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:15:13-47
+	android:name
+		ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:13:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:23:13-26:17
+	android:resource
+		ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:25:15-52
+	android:name
+		ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:24:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:32:13-35:17
+	android:resource
+		ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:34:15-61
+	android:name
+		ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:33:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:37:17-68
+	android:name
+		ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:38:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:43:9-45:33
+	android:value
+		ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:45:13-30
+	android:name
+		ADDED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml:44:13-44
 uses-sdk
-INJECTED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml
-MERGED from [:firebase_database] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_database] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore] C:\Users\joho10\Desktop\flutter\home\home2\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore] C:\Users\joho10\Desktop\flutter\home\home2\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_storage] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_storage] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:image_picker] C:\Users\joho10\Desktop\flutter\home\home2\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:image_picker] C:\Users\joho10\Desktop\flutter\home\home2\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:file_picker] C:\Users\joho10\Desktop\flutter\home\home2\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:file_picker] C:\Users\joho10\Desktop\flutter\home\home2\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:flutter_plugin_android_lifecycle] C:\Users\joho10\Desktop\flutter\home\home2\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:flutter_plugin_android_lifecycle] C:\Users\joho10\Desktop\flutter\home\home2\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:sqflite] C:\Users\joho10\Desktop\flutter\home\home2\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:sqflite] C:\Users\joho10\Desktop\flutter\home\home2\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:path_provider] C:\Users\joho10\Desktop\flutter\home\home2\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:path_provider] C:\Users\joho10\Desktop\flutter\home\home2\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:flutter_secure_storage] C:\Users\joho10\Desktop\flutter\home\home2\build\flutter_secure_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:flutter_secure_storage] C:\Users\joho10\Desktop\flutter\home\home2\build\flutter_secure_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:fluttertoast] C:\Users\joho10\Desktop\flutter\home\home2\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:fluttertoast] C:\Users\joho10\Desktop\flutter\home\home2\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:google_sign_in] C:\Users\joho10\Desktop\flutter\home\home2\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:google_sign_in] C:\Users\joho10\Desktop\flutter\home\home2\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml
+MERGED from [:firebase_database] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_database] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] C:\Users\joho10\Desktop\flutter\mac_home\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] C:\Users\joho10\Desktop\flutter\mac_home\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:speech_to_text] C:\Users\joho10\Desktop\flutter\mac_home\build\speech_to_text\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:speech_to_text] C:\Users\joho10\Desktop\flutter\mac_home\build\speech_to_text\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\joho10\Desktop\flutter\mac_home\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\joho10\Desktop\flutter\mac_home\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] C:\Users\joho10\Desktop\flutter\mac_home\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] C:\Users\joho10\Desktop\flutter\mac_home\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\joho10\Desktop\flutter\mac_home\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\joho10\Desktop\flutter\mac_home\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\joho10\Desktop\flutter\mac_home\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\joho10\Desktop\flutter\mac_home\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\joho10\Desktop\flutter\mac_home\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\joho10\Desktop\flutter\mac_home\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_secure_storage] C:\Users\joho10\Desktop\flutter\mac_home\build\flutter_secure_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:flutter_secure_storage] C:\Users\joho10\Desktop\flutter\mac_home\build\flutter_secure_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:fluttertoast] C:\Users\joho10\Desktop\flutter\mac_home\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] C:\Users\joho10\Desktop\flutter\mac_home\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] C:\Users\joho10\Desktop\flutter\mac_home\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] C:\Users\joho10\Desktop\flutter\mac_home\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] C:\Users\joho10\Desktop\flutter\mac_home\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] C:\Users\joho10\Desktop\flutter\mac_home\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\a20be4a04e20a7650c7478728658bc1e\multidex-2.0.0\AndroidManifest.xml:20:5-43
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\a20be4a04e20a7650c7478728658bc1e\multidex-2.0.0\AndroidManifest.xml:20:5-43
 MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\1c075310296ee9585f35188ad9e1b8a0\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:20:5-44
@@ -380,48 +422,26 @@ MERGED from [com.github.arturogutierrez:badges:1.0.5] C:\Users\joho10\.gradle\ca
 MERGED from [com.github.arturogutierrez:badges:1.0.5] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\87ad32479de08502d35b116efa0d212f\jetified-badges-1.0.5\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\607f946bfd99fc22cd7cbe35efa222a6\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\607f946bfd99fc22cd7cbe35efa222a6\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
-INJECTED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\debug\AndroidManifest.xml
-INJECTED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\debug\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\debug\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\debug\AndroidManifest.xml
-uses-permission#android.permission.INTERNET
-ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\debug\AndroidManifest.xml:6:5-66
-MERGED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
-MERGED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
-MERGED from [:google_sign_in] C:\Users\joho10\Desktop\flutter\home\home2\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
-MERGED from [:google_sign_in] C:\Users\joho10\Desktop\flutter\home\home2\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
-MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\12200954332df4e7949ae523e1cf886f\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:26:5-67
-MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\12200954332df4e7949ae523e1cf886f\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:26:5-67
-MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\39226147107c07d612c0b5c242740fda\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\39226147107c07d612c0b5c242740fda\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-firestore:23.0.3] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\ec1ec19720eb10862d5cbe52066417fa\jetified-firebase-firestore-23.0.3\AndroidManifest.xml:14:5-67
-MERGED from [com.google.firebase:firebase-firestore:23.0.3] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\ec1ec19720eb10862d5cbe52066417fa\jetified-firebase-firestore-23.0.3\AndroidManifest.xml:14:5-67
-MERGED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\1b1da317e75d1e5f9a3fdb04d44a433f\jetified-firebase-storage-20.0.0\AndroidManifest.xml:27:5-67
-MERGED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\1b1da317e75d1e5f9a3fdb04d44a433f\jetified-firebase-storage-20.0.0\AndroidManifest.xml:27:5-67
-MERGED from [com.google.firebase:firebase-database:20.0.1] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\70da28a8cae640a5453179e9a4e80e74\jetified-firebase-database-20.0.1\AndroidManifest.xml:26:5-67
-MERGED from [com.google.firebase:firebase-database:20.0.1] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\70da28a8cae640a5453179e9a4e80e74\jetified-firebase-database-20.0.1\AndroidManifest.xml:26:5-67
-MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\2733ee416a9a3a7703f654641d3c99ee\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
-MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\2733ee416a9a3a7703f654641d3c99ee\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
-MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\8826ca986e6193ba3621f65cae7b406e\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:8:5-67
-MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\8826ca986e6193ba3621f65cae7b406e\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:8:5-67
-	android:name
-		ADDED from C:\Users\joho10\Desktop\flutter\home\home2\android\app\src\debug\AndroidManifest.xml:6:22-64
+		INJECTED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\joho10\Desktop\flutter\mac_home\android\app\src\debug\AndroidManifest.xml
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:firebase_database] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
-MERGED from [:cloud_firestore] C:\Users\joho10\Desktop\flutter\home\home2\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
-MERGED from [:cloud_firestore] C:\Users\joho10\Desktop\flutter\home\home2\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_auth] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_auth] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_storage] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_storage] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:33:9-37:19
-MERGED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:33:9-37:19
-MERGED from [:firebase_core] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_core] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+ADDED from [:firebase_database] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] C:\Users\joho10\Desktop\flutter\mac_home\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] C:\Users\joho10\Desktop\flutter\mac_home\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_storage] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_storage] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:33:9-37:19
+MERGED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:33:9-37:19
+MERGED from [:firebase_core] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
 MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\1c075310296ee9585f35188ad9e1b8a0\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:49:9-55:19
 MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\1c075310296ee9585f35188ad9e1b8a0\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:49:9-55:19
 MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\2143f63b0fbb6459807ac91f4bf988f5\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:25:9-31:19
@@ -445,41 +465,41 @@ MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\joho10\.gradle
 	android:directBootAware
 		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\3302300f084732ea1b649fcba8a3ed24\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
 	android:name
-		ADDED from [:firebase_database] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+		ADDED from [:firebase_database] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.database.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_database] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_database] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_database] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_database] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_database] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-127
+		ADDED from [:firebase_database] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-127
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
-ADDED from [:cloud_firestore] C:\Users\joho10\Desktop\flutter\home\home2\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+ADDED from [:cloud_firestore] C:\Users\joho10\Desktop\flutter\mac_home\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:cloud_firestore] C:\Users\joho10\Desktop\flutter\home\home2\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+		ADDED from [:cloud_firestore] C:\Users\joho10\Desktop\flutter\mac_home\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:cloud_firestore] C:\Users\joho10\Desktop\flutter\home\home2\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-134
+		ADDED from [:cloud_firestore] C:\Users\joho10\Desktop\flutter\mac_home\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-134
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
-ADDED from [:firebase_auth] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_auth] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_auth] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_auth] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_auth] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+		ADDED from [:firebase_auth] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_storage] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_storage] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_storage] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_storage] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_storage] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-126
+		ADDED from [:firebase_storage] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-126
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-68
+ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-68
 MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\1c075310296ee9585f35188ad9e1b8a0\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:23:5-68
 MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\1c075310296ee9585f35188ad9e1b8a0\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:23:5-68
 MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\8826ca986e6193ba3621f65cae7b406e\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:9:5-68
 MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\8826ca986e6193ba3621f65cae7b406e\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:9:5-68
 	android:name
-		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-65
+		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-65
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-79
+ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-79
 MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\1c075310296ee9585f35188ad9e1b8a0\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:22:5-79
 MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\1c075310296ee9585f35188ad9e1b8a0\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:22:5-79
 MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\12200954332df4e7949ae523e1cf886f\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:25:5-79
@@ -501,181 +521,189 @@ MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\
 MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\9fbe687fafbecc1727e69653ffa44b44\jetified-grpc-android-1.28.0\AndroidManifest.xml:11:5-79
 MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\9fbe687fafbecc1727e69653ffa44b44\jetified-grpc-android-1.28.0\AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-76
+		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-76
 service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService
-ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-15:72
+ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-15:72
 	android:exported
-		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
 	android:permission
-		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-69
+		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-69
 	android:name
-		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-107
+		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-107
 service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService
-ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-22:19
+ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-22:19
 	android:exported
-		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-37
+		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-37
 	android:name
-		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-97
+		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-97
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-21:29
+ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-21:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:20:17-78
+ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:20:17-78
 	android:name
-		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:20:25-75
+		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:20:25-75
 receiver#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver
-ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-31:20
+ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-31:20
 	android:exported
-		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:26:13-36
+		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:26:13-36
 	android:permission
-		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:27:13-73
+		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:27:13-73
 	android:name
-		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:25:13-98
+		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:25:13-98
 intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
-ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:28:13-30:29
+ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:28:13-30:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:29:17-81
+ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:29:17-81
 	android:name
-		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:29:25-78
+		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:29:25-78
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:34:13-36:85
+ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:34:13-36:85
 	android:value
-		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:36:17-82
+		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:36:17-82
 	android:name
-		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:35:17-128
+		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:35:17-128
 provider#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider
-ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:39:9-43:38
+ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:39:9-43:38
 	android:authorities
-		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:41:13-88
+		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:41:13-88
 	android:exported
-		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:42:13-37
+		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:42:13-37
 	android:initOrder
-		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:43:13-35
+		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:43:13-35
 	android:name
-		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:40:13-102
+		ADDED from [:firebase_messaging] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:40:13-102
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
-ADDED from [:firebase_core] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_core] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_core] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_core] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_core] C:\Users\joho10\Desktop\flutter\home\home2\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+		ADDED from [:firebase_core] C:\Users\joho10\Desktop\flutter\mac_home\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
 provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
-ADDED from [:image_picker] C:\Users\joho10\Desktop\flutter\home\home2\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+ADDED from [:image_picker] C:\Users\joho10\Desktop\flutter\mac_home\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
 	android:grantUriPermissions
-		ADDED from [:image_picker] C:\Users\joho10\Desktop\flutter\home\home2\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+		ADDED from [:image_picker] C:\Users\joho10\Desktop\flutter\mac_home\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
 	android:authorities
-		ADDED from [:image_picker] C:\Users\joho10\Desktop\flutter\home\home2\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
+		ADDED from [:image_picker] C:\Users\joho10\Desktop\flutter\mac_home\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
 	android:exported
-		ADDED from [:image_picker] C:\Users\joho10\Desktop\flutter\home\home2\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+		ADDED from [:image_picker] C:\Users\joho10\Desktop\flutter\mac_home\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
 	android:name
-		ADDED from [:image_picker] C:\Users\joho10\Desktop\flutter\home\home2\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-82
+		ADDED from [:image_picker] C:\Users\joho10\Desktop\flutter\mac_home\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-82
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:image_picker] C:\Users\joho10\Desktop\flutter\home\home2\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:75
+ADDED from [:image_picker] C:\Users\joho10\Desktop\flutter\mac_home\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:75
 	android:resource
-		ADDED from [:image_picker] C:\Users\joho10\Desktop\flutter\home\home2\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-72
+		ADDED from [:image_picker] C:\Users\joho10\Desktop\flutter\mac_home\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-72
 	android:name
-		ADDED from [:image_picker] C:\Users\joho10\Desktop\flutter\home\home2\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+		ADDED from [:image_picker] C:\Users\joho10\Desktop\flutter\mac_home\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from [:file_picker] C:\Users\joho10\Desktop\flutter\home\home2\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
+ADDED from [:file_picker] C:\Users\joho10\Desktop\flutter\mac_home\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
 	android:name
-		ADDED from [:file_picker] C:\Users\joho10\Desktop\flutter\home\home2\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-77
+		ADDED from [:file_picker] C:\Users\joho10\Desktop\flutter\mac_home\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-77
 queries
-ADDED from [:file_picker] C:\Users\joho10\Desktop\flutter\home\home2\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-15:15
+ADDED from [:file_picker] C:\Users\joho10\Desktop\flutter\mac_home\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-15:15
 intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:*/*
-ADDED from [:file_picker] C:\Users\joho10\Desktop\flutter\home\home2\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-14:18
+ADDED from [:file_picker] C:\Users\joho10\Desktop\flutter\mac_home\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-14:18
 action#android.intent.action.GET_CONTENT
-ADDED from [:file_picker] C:\Users\joho10\Desktop\flutter\home\home2\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-72
+ADDED from [:file_picker] C:\Users\joho10\Desktop\flutter\mac_home\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-72
 	android:name
-		ADDED from [:file_picker] C:\Users\joho10\Desktop\flutter\home\home2\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:21-69
+		ADDED from [:file_picker] C:\Users\joho10\Desktop\flutter\mac_home\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:21-69
 data
-ADDED from [:file_picker] C:\Users\joho10\Desktop\flutter\home\home2\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-44
+ADDED from [:file_picker] C:\Users\joho10\Desktop\flutter\mac_home\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-44
 	android:mimeType
-		ADDED from [:file_picker] C:\Users\joho10\Desktop\flutter\home\home2\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:19-41
+		ADDED from [:file_picker] C:\Users\joho10\Desktop\flutter\mac_home\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:19-41
 uses-permission#com.sec.android.provider.badge.permission.READ
-ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-86
+ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-86
 MERGED from [com.github.arturogutierrez:badges:1.0.5] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\87ad32479de08502d35b116efa0d212f\jetified-badges-1.0.5\AndroidManifest.xml:10:5-86
 MERGED from [com.github.arturogutierrez:badges:1.0.5] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\87ad32479de08502d35b116efa0d212f\jetified-badges-1.0.5\AndroidManifest.xml:10:5-86
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-83
+		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-83
 uses-permission#com.sec.android.provider.badge.permission.WRITE
-ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-87
+ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-87
 MERGED from [com.github.arturogutierrez:badges:1.0.5] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\87ad32479de08502d35b116efa0d212f\jetified-badges-1.0.5\AndroidManifest.xml:11:5-87
 MERGED from [com.github.arturogutierrez:badges:1.0.5] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\87ad32479de08502d35b116efa0d212f\jetified-badges-1.0.5\AndroidManifest.xml:11:5-87
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-84
+		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-84
 uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
-ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-88
+ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-88
 MERGED from [com.github.arturogutierrez:badges:1.0.5] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\87ad32479de08502d35b116efa0d212f\jetified-badges-1.0.5\AndroidManifest.xml:14:5-88
 MERGED from [com.github.arturogutierrez:badges:1.0.5] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\87ad32479de08502d35b116efa0d212f\jetified-badges-1.0.5\AndroidManifest.xml:14:5-88
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-85
+		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-85
 uses-permission#com.htc.launcher.permission.READ_SETTINGS
-ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-81
+ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-81
 MERGED from [com.github.arturogutierrez:badges:1.0.5] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\87ad32479de08502d35b116efa0d212f\jetified-badges-1.0.5\AndroidManifest.xml:17:5-81
 MERGED from [com.github.arturogutierrez:badges:1.0.5] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\87ad32479de08502d35b116efa0d212f\jetified-badges-1.0.5\AndroidManifest.xml:17:5-81
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-78
+		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-78
 uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
-ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-83
+ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-83
 MERGED from [com.github.arturogutierrez:badges:1.0.5] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\87ad32479de08502d35b116efa0d212f\jetified-badges-1.0.5\AndroidManifest.xml:18:5-83
 MERGED from [com.github.arturogutierrez:badges:1.0.5] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\87ad32479de08502d35b116efa0d212f\jetified-badges-1.0.5\AndroidManifest.xml:18:5-83
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:16:22-80
+		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:16:22-80
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-81
+ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-81
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:17:22-78
+		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:17:22-78
 receiver#me.carda.awesome_notifications.notifications.broadcastReceivers.DismissedNotificationReceiver
-ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:41:9-130
+ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:41:9-130
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:41:19-127
+		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:41:19-127
 receiver#me.carda.awesome_notifications.notifications.broadcastReceivers.ScheduledNotificationReceiver
-ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:42:9-130
+ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:42:9-130
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:42:19-127
+		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:42:19-127
 receiver#me.carda.awesome_notifications.notifications.broadcastReceivers.KeepOnTopActionReceiver
-ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:43:9-124
+ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:43:9-124
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:43:19-121
+		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:43:19-121
 receiver#me.carda.awesome_notifications.notifications.broadcastReceivers.RefreshNotificationBootReceiver
-ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:44:9-54:20
+ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:44:9-54:20
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:44:19-129
+		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:44:19-129
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.LOCKED_BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON+category:name:android.intent.category.DEFAULT
-ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:45:13-53:29
+ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:45:13-53:29
 category#android.intent.category.DEFAULT
-ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:46:17-76
+ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:46:17-76
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:46:27-73
+		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:46:27-73
 action#android.intent.action.BOOT_COMPLETED
-ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:48:17-79
+ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:48:17-79
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:48:25-76
+		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:48:25-76
 action#android.intent.action.LOCKED_BOOT_COMPLETED
-ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:49:17-86
+ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:49:17-86
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:49:25-83
+		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:49:25-83
 action#android.intent.action.MY_PACKAGE_REPLACED
-ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:50:17-84
+ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:50:17-84
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:50:25-81
+		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:50:25-81
 action#android.intent.action.QUICKBOOT_POWERON
-ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:51:17-82
+ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:51:17-82
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:51:25-79
+		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:51:25-79
 action#com.htc.intent.action.QUICKBOOT_POWERON
-ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:52:17-82
+ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:52:17-82
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:52:25-79
+		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:52:25-79
 receiver#androidx.media.session.MediaButtonReceiver
-ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:55:9-59:20
+ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:55:9-59:20
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:55:19-76
+		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:55:19-76
 intent-filter#action:name:android.intent.action.MEDIA_BUTTON
-ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:56:13-58:29
+ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:56:13-58:29
 action#android.intent.action.MEDIA_BUTTON
-ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:57:17-77
+ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:57:17-77
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\home\home2\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:57:25-74
+		ADDED from [:awesome_notifications] C:\Users\joho10\Desktop\flutter\mac_home\build\awesome_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:57:25-74
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] C:\Users\joho10\Desktop\flutter\mac_home\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] C:\Users\joho10\Desktop\flutter\mac_home\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] C:\Users\joho10\Desktop\flutter\mac_home\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] C:\Users\joho10\Desktop\flutter\mac_home\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
 uses-permission#com.google.android.c2dm.permission.RECEIVE
 ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\1c075310296ee9585f35188ad9e1b8a0\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:25:5-82
 MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\joho10\.gradle\caches\transforms-2\files-2.1\8826ca986e6193ba3621f65cae7b406e\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:11:5-82

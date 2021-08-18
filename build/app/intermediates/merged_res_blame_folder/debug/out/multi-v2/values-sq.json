@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\joho10\\Desktop\\flutter\\home\\home2\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq\\values-sq.xml",
+            "outputFile": "C:\\Users\\joho10\\Desktop\\flutter\\mac_home\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq\\values-sq.xml",
             "map": [
                 {
                     "source": "C:\\Users\\joho10\\.gradle\\caches\\transforms-2\\files-2.1\\44839bb2c2273d4740a7525da7c26a24\\jetified-play-services-basement-17.1.0\\res\\values-sq\\values.xml",
