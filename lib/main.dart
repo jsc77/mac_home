@@ -2,53 +2,38 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:hq/list/good_page.dart';
 import 'package:hq/list/list_student_page.dart';
+import 'package:hq/model/item.dart';
+import 'package:hq/pages/home_screen.dart';
+import 'package:hq/pages/login.dart';
+import 'package:hq/pages/signup.dart';
+import 'package:hq/services/um.dart';
 import 'package:hq/test/landing_page.dart';
 import 'package:provider/provider.dart';
 import 'package:awesome_notifications/awesome_notifications.dart';
 
-Future<void> _firebaseMessagingBackgroundHandler(RemoteMessage message) async {
-  await Firebase.initializeApp();
-  print(message.messageId);
-}
-
-const AndroidNotificationChannel channel = AndroidNotificationChannel(
-    'high_importance_channel', // id
-    'High Importance Notifications', // title
-    'This channel is used for important notifications.',
-    importance: Importance.high);
-
-final FlutterLocalNotificationsPlugin flutterLocalNotificationsPlugin =
-    FlutterLocalNotificationsPlugin();
-
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
-  // FirebaseMessaging.onBackgroundMessage(_firebasePushHandler);
-  // AwesomeNotifications().initialize(null, [
-  //   NotificationChannel(
-  //       channelKey: 'key1',
-  //       channelName: 'proto',
-  //       channelDescription: 'noti',
-  //       ledColor: Colors.white,
-  //       playSound: true,
-  //       enableLights: true,
-  //       enableVibration: true)
-  // ]);
-  FirebaseMessaging.onBackgroundMessage(_firebaseMessagingBackgroundHandler);
-  await flutterLocalNotificationsPlugin
-      .resolvePlatformSpecificImplementation<
-          AndroidFlutterLocalNotificationsPlugin>()
-      ?.createNotificationChannel(channel);
+  FirebaseMessaging.onBackgroundMessage(_firebasePushHandler);
+  AwesomeNotifications().initialize(null, [
+    NotificationChannel(
+        channelKey: 'key1',
+        channelName: 'proto',
+        channelDescription: 'noti',
+        ledColor: Colors.white,
+        playSound: true,
+        enableLights: true,
+        enableVibration: true)
+  ]);
   runApp(MyApp());
 }
 
-// Future<void> _firebasePushHandler(RemoteMessage message) async {
-//   print(message.data);
-//   AwesomeNotifications().createNotificationFromJsonData(message.data);
-// }
+Future<void> _firebasePushHandler(RemoteMessage message) async {
+  print(message.data);
+  AwesomeNotifications().createNotificationFromJsonData(message.data);
+}
 
 void notify(_model) async {
   AwesomeNotifications().initialize(null, [
