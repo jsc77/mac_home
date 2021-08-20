@@ -2,14 +2,8 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
-import 'package:hq/list/good_page.dart';
-import 'package:hq/list/list_student_page.dart';
-import 'package:hq/model/item.dart';
-import 'package:hq/pages/home_screen.dart';
-import 'package:hq/pages/login.dart';
-import 'package:hq/pages/signup.dart';
-import 'package:hq/services/um.dart';
-import 'package:hq/test/landing_page.dart';
+import 'package:hq/pages/auth/login.dart';
+import 'package:hq/pages/home/landing_page.dart';
 import 'package:provider/provider.dart';
 import 'package:awesome_notifications/awesome_notifications.dart';
 
@@ -84,11 +78,7 @@ class MyApp extends StatelessWidget {
                       bodyText2:
                           TextStyle(color: Colors.black45, fontFamily: "Kyo"))),
               title: 'Flutter',
-              home: LandingPage(),
-              routes: <String, WidgetBuilder>{
-                '/GoodPage': (BuildContext context) => new GoodPage(),
-                '/list': (BuildContext context) => new ListStudentPage(),
-              },
+              home: Login(),
             );
           }
           return CircularProgressIndicator();

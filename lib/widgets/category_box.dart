@@ -1,12 +1,10 @@
-import 'dart:async';
-
 import 'package:awesome_notifications/awesome_notifications.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:hq/dataset.dart';
-import 'package:hq/list/good_page.dart';
 import 'package:hq/main.dart';
 import 'package:hq/model/item.dart';
+import 'package:hq/pages/pika/good_page.dart';
 import 'package:hq/viewProduct.dart';
 
 class RectWidth extends StatelessWidget {
@@ -125,6 +123,7 @@ class CategoryCard extends StatelessWidget {
                         TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
                 SizedBox(height: 5),
                 Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     GestureDetector(
                       onTap: () {
@@ -160,10 +159,10 @@ class CategoryCard extends StatelessWidget {
                           padding: EdgeInsets.only(
                               left: 8, right: 8, top: 5, bottom: 8),
                           decoration: BoxDecoration(
-                              color: Colors.amber,
+                              color: Colors.blue[900],
                               borderRadius: BorderRadius.circular(10)),
                           child: Text(
-                            "Notify",
+                            "通知",
                             style: TextStyle(
                                 color: Colors.white,
                                 fontWeight: FontWeight.bold),
@@ -181,39 +180,33 @@ class CategoryCard extends StatelessWidget {
 }
 
 class NewCategoryRect extends StatelessWidget {
-  final String name;
   final List<Item> list;
-  NewCategoryRect({this.name, this.list});
+  NewCategoryRect({this.list});
 
   @override
   Widget build(BuildContext context) {
     return Column(
       children: [
-        Padding(
-          padding: EdgeInsets.only(left: 30, right: 30, top: 20, bottom: 10),
-          child: Row(
-            mainAxisAlignment: MainAxisAlignment.spaceBetween,
-            children: [
-              Text(name,
-                  style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
-              Row(
-                children: [
-                  Text(
-                    "項目",
-                    style: TextStyle(
-                        fontSize: 16,
-                        color: Colors.redAccent,
-                        fontWeight: FontWeight.bold),
-                  ),
-                  Icon(
-                    Icons.arrow_forward_ios,
-                    color: Colors.redAccent,
-                    size: 16,
-                  )
-                ],
-              )
-            ],
-          ),
+        Row(
+          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          children: [
+            Text('多床室',
+                style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
+            GestureDetector(
+              onTap: () {},
+              child: Container(
+                padding:
+                    EdgeInsets.only(left: 15, right: 15, top: 8, bottom: 8),
+                decoration: BoxDecoration(
+                    color: Colors.red, borderRadius: BorderRadius.circular(10)),
+                child: Text(
+                  "項目",
+                  style: TextStyle(
+                      color: Colors.white, fontWeight: FontWeight.bold),
+                ),
+              ),
+            )
+          ],
         ),
         Container(
             height: 250,

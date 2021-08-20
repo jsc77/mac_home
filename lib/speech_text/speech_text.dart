@@ -11,12 +11,13 @@ class Speech extends StatefulWidget {
 }
 
 class _SpeechState extends State<Speech> {
-  String text = 'Press the button and start speaking';
+  String text = 'ボタンをクリックし、内容を話してください';
   bool isListening = false;
 
   @override
   Widget build(BuildContext context) => Scaffold(
         appBar: AppBar(
+          backgroundColor: Colors.green[400],
           actions: [
             Builder(
               builder: (context) => IconButton(
@@ -25,7 +26,7 @@ class _SpeechState extends State<Speech> {
                   await FlutterClipboard.copy(text);
 
                   Scaffold.of(context).showSnackBar(
-                    SnackBar(content: Text('✓   Copied to Clipboard')),
+                    SnackBar(content: Text('✓   テキストをコピーしました。\n\n\n\n\n\n\n')),
                   );
                 },
               ),
@@ -50,13 +51,14 @@ class _SpeechState extends State<Speech> {
             ),
           ),
         ),
-        floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
+        floatingActionButtonLocation:
+            FloatingActionButtonLocation.miniCenterTop,
         floatingActionButton: AvatarGlow(
           animate: isListening,
           endRadius: 75,
-          glowColor: Theme.of(context).primaryColor,
+          glowColor: Colors.cyan,
           child: FloatingActionButton(
-            child: Icon(isListening ? Icons.mic : Icons.mic_none, size: 36),
+            child: Icon(isListening ? Icons.mic : Icons.mic_none, size: 50),
             onPressed: toggleRecording,
           ),
         ),

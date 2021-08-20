@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hq/customClipper.dart';
+import 'package:hq/widgets/customClipper.dart';
 import 'package:hq/dataset.dart';
 
 class ViewProduct extends StatelessWidget {

@@ -10,10 +10,10 @@ class DM {
         .set({'displayName': name, 'role': role, 'time': time, 'uid': uid});
   }
 
-  Future updateUserList(String name, String role, int time, String uid) async {
+  Future updateUserList(String name, int time, String uid) async {
     return await profileList
         .doc(uid)
-        .update({'displayName': name, 'role': role, 'time': time, 'uid': uid});
+        .update({'displayName': name, 'time': time, 'uid': uid});
   }
 
   Future getUsersList() async {
